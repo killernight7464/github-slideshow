@@ -1,4 +1,4 @@
-GEM
+gem "kramdown", ">= 2.3.1"
   remote: https://rubygems.org/
   specs:
     activesupport (4.2.11.1)
@@ -259,4 +259,4 @@ DEPENDENCIES
   tzinfo-data
 
 BUNDLED WITH
-   1.17.3
+  2.3.1
